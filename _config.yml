@@ -3,7 +3,7 @@ name: Behrang
 job_title: Programmer
 email: behrangsa@gmail.com
 description: "things.forEach(t -> t.do())"
-avatar: /assets/images/avatar.jpeg
+avatar: /assets/images/avatar-2.jpeg
 favicon: /favicon.ico
 twitter_handler: behrangsa
 # analytics_code: UA-XXXXXXX-2
@@ -41,7 +41,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "https://behrangsa.github.io"
 baseurl: ""
 
 # Includes
