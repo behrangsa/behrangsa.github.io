@@ -46,7 +46,6 @@ One thing to remember - 1 is **on**, 0 is **off**.
 
 * **show_categories**: If it is on and you've added categories in the post itself the categories will be visible. If it is off and you've added categories in the post they will be hidden. This option is helpful if you want to turn on/off categories for all your posts at once. 
 * **show_tags**: If it is on and you've added tags in the post itself the tags will be visible. If it is off and you've added tags in the post they will be hidden.  This option is helpful if you want to turn on/off tags for all your posts at once. 
-* **show_mood**: If it is on and you've added mood in the post itself the mood will be visible. If it is off and you've added mood in the post the mood will be hidden. This option is helpful if you want to turn on/off mood for all your posts at once. 
 * **show_email**: If this is turned on and you've entered an email value in **email**, an email icon will appear next to your social media accounts and all your readers will be able to contact you. 
 * **show_rss**: If this is turned on, a new RSS button will appear in the sidebar next to your social media accounts.
 * **show_comments**: If it is on and you've added <code>comments: true</code> in the post itself the comments will be visible. If it is off and you've added <code>comments: true</code> in the post the comments will be hidden. This option is helpful if you want to turn on/off comments for all your posts at once.
@@ -113,8 +112,6 @@ In the beginning of the every post you have a so called [front matter](https://j
 **description**: Meta description used for better SEO.
 
 **comments**: By default they are always <code>true</code>, but if you want to turn them off for a specific post just set this to <code>false</code>.
-
-**mood**: You have four options here, representing your current state when you are writing the post - happy, sad, angry, speechless. Expect more in the upcoming versions.
 
 **category**: List the categories in which you want your post to appear.
 

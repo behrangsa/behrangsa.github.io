@@ -1,30 +1,30 @@
 # General Settings
+name: Behrang
+job_title: Programmer
+email: behrangsa@gmail.com
+description: "things.forEach(t -> t.do())"
+avatar: /assets/images/avatar.jpeg
+favicon: /favicon.ico
+twitter_handler: behrangsa
+# analytics_code: UA-XXXXXXX-2
+# disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: linkedin, url: '' }
--  { name: skype, url: '' }
--  { name: github, url: '' }
--  { name: codepen, url: '' }
--  { name: stack-overflow, url: '' }
--  { name: dribbble, url: '' }
--  { name: behance, url: '' }
--  { name: pinterest, url: '' }
--  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
--  { name: vimeo, url: '' }
--  { name: vine, url: '' }
--  { name: 500px, url: '' }
--  { name: flickr, url: '' }
--  { name: spotify, url: '' }
--  { name: steam, url: '' }
--  { name: wordpress, url: '' }
--  { name: xing, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/behrangsa' }
+-  { name: github, url: 'https://github.com/behrangsa/' }
+-  { name: stack-overflow, url: 'http://stackoverflow.com/users/309683/behrang' }
+-  { name: twitter, url: 'https://twitter.com/behrangsa' }
+
+# -  { name: codepen, url: 'http://codepen.io/behrangsa/' }
+#-  { name: vimeo, url: '' }
+#-  { name: flickr, url: '' }
+#-  { name: spotify, url: '' }
+# -  { name: instagram, url: '' }
 
 # Modules Settings
 show_categories: 1
 show_tags: 1
-show_mood: 1
 show_email: 1
 show_rss: 1
 show_comments: 1
