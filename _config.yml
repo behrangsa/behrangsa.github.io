@@ -17,16 +17,16 @@ social_networks:
 -  { name: twitter, url: 'https://twitter.com/behrangsa' }
 
 # -  { name: codepen, url: 'http://codepen.io/behrangsa/' }
-#-  { name: vimeo, url: '' }
-#-  { name: flickr, url: '' }
-#-  { name: spotify, url: '' }
+# -  { name: vimeo, url: '' }
+# -  { name: flickr, url: '' }
+# -  { name: spotify, url: '' }
 # -  { name: instagram, url: '' }
 
 # Modules Settings
 show_categories: 1
 show_tags: 1
-show_email: 1
-show_rss: 1
+show_email: 0
+show_rss: 0
 show_comments: 1
 show_menu: 1
 fixed_sidebar: 1
